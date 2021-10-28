@@ -1,0 +1,220 @@
+.icon{
+    margin-top: 10px;
+}
+.icon i{
+    padding: 5px;
+}
+.icon p{
+    font-weight: 700;
+}
+
+.banner{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.banner-item{
+    margin-top: 100px;
+}
+.banner-item h2{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1;
+}
+.banner-item p{
+        padding-top: 25px;
+        font-size: 16px;
+        font-weight: 500;
+}
+.banner-video video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.section-header{
+    padding-top: 100px
+;
+}
+.section-header h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: black;
+    padding-bottom: 20px;
+}
+.section-header p{
+    max-width: 25rem;
+    margin:0 auto;
+}
+.facts{
+    margin-bottom: 100px;
+}
+.facts-video video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+.facts-video p{
+    text-align: center;
+    font-weight: 700;
+    padding-top: 20px;
+}
+.facts-video .dropdown{
+    text-align: center;
+    font-weight: 700;
+    padding-top: 20px;
+    list-style: none;
+}
+.facts-video .dropdown a{
+    text-decoration: none;
+    color: black;
+}
+.dropdown .btn-custom{
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+    box-shadow: none;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.dropdown-toggle::after{
+    margin-left: 100px;
+}
+.dropdown .dropdown-menu {
+    width: 240px;
+    font-size: 14px;
+    line-height: .8;
+}
+.dropdown .dropdown-menu li a:hover{
+    background-color: rgb(26, 152, 202);
+    color: #fff;
+}
+
+.talk-bar{
+    background-color: black;
+    position: relative;
+    margin-bottom: 100px;
+}
+.talk-item{
+    padding: 150px 20px;
+}
+.talk-item img{
+    width: 50px;
+    padding-bottom: 30px;
+}
+.talk-item h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+}
+.talk-item p {
+    color: white;
+    font-size: 30px;
+    padding-top: 40px;
+    font-weight: 400;
+    line-height: 1.2;
+}
+.talk-item .btn-custom {
+    padding: 15px 50px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 50px;
+    box-shadow: none;
+    border-radius: 10px;
+}
+.talk-item .btn-custom:hover {
+    background: #0a4fb6;
+}
+.talk-image{
+    padding-right:20px ;
+}
+.talk-image img{
+    margin-top: 20px;
+}
+.talk-image .img1{
+    position: absolute;
+}
+.talk-image .img2{
+    width: 190px;
+    position: absolute;
+    top: 115px;
+    right: 210px;
+}
+.talk-image .img3{
+    width: 190px;
+    position: absolute;
+    top: 408px;
+    left: 630px;
+}
+.talk-image .img4{
+    width: 190px;
+    position: absolute;
+    top: 525px;
+    right: 210px;
+}
+.service{}
+.service-item{}
+.service-item h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 100px;
+}
+.service-img img{
+    width: 70%;
+    margin-left: 50px;
+}
+.text-yellow h2{
+    padding-top: 80px;
+    font-weight: 700;
+    color: #c2ab86;
+}
+.text-green h2{
+    padding-top: 80px;
+    font-weight: 700;
+    color: #53985A;
+    padding-left: 100px;
+}
+    
+.text-blue h2{
+    padding-top: 100px;
+    font-weight: 700;
+    color: #4489F2
+}
+    
+.footer-item{
+    margin-top: 200px;
+    text-align: center;
+}
+.footer-item img{
+    width: 50px;
+}
+.footer-item p{
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.footer-item .btn-custom{
+    padding: 15px 50px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    box-shadow: none;
+    border-radius: 10px;
+}
+.end-item{
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+
+
+
+
+
+
+
+
